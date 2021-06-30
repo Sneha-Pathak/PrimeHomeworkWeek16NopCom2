@@ -1,0 +1,33 @@
+2021-06-30 22:06:614 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:91 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (3a45d9c36663d1ead8c55c86255b199a)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:554 INFO  ComputerPage :34 - Clicking on desktop menu....[[ChromeDriver: chrome on WINDOWS (3a45d9c36663d1ead8c55c86255b199a)] -> xpath: //ul[@class = 'sublist']/li[1]/a]
+2021-06-30 22:06:937 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:934 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (9f83989cf539abd4dec63433dcb57d6a)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:460 INFO  ComputerPage :40 - Clicking on notebook menu....[[ChromeDriver: chrome on WINDOWS (9f83989cf539abd4dec63433dcb57d6a)] -> xpath: //ul[@class = 'sublist']/li[2]/a]
+2021-06-30 22:06:944 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:805 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (0fdd054953c47133212c599152bd9b72)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:986 INFO  ComputerPage :34 - Clicking on desktop menu....[[ChromeDriver: chrome on WINDOWS (0fdd054953c47133212c599152bd9b72)] -> xpath: //ul[@class = 'sublist']/li[1]/a]
+2021-06-30 22:06:371 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:956 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (b46f7b7b304128e00269b1848ba2d9aa)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:100 INFO  ComputerPage :40 - Clicking on notebook menu....[[ChromeDriver: chrome on WINDOWS (b46f7b7b304128e00269b1848ba2d9aa)] -> xpath: //ul[@class = 'sublist']/li[2]/a]
+2021-06-30 22:06:471 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:609 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (0fb956fd3d714572758d14b8ea5be3ba)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:139 INFO  ComputerPage :46 - Clicking on software menu....[[ChromeDriver: chrome on WINDOWS (0fb956fd3d714572758d14b8ea5be3ba)] -> xpath: //ul[@class = 'sublist']/li[3]/a]
+2021-06-30 22:06:396 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:515 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (317713cc761216534d61fc45f51429e4)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:751 INFO  ComputerPage :34 - Clicking on desktop menu....[[ChromeDriver: chrome on WINDOWS (317713cc761216534d61fc45f51429e4)] -> xpath: //ul[@class = 'sublist']/li[1]/a]
+2021-06-30 22:06:260 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:74 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (9ac000c5a8978c8ab30df26023d00659)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:569 INFO  ComputerPage :40 - Clicking on notebook menu....[[ChromeDriver: chrome on WINDOWS (9ac000c5a8978c8ab30df26023d00659)] -> xpath: //ul[@class = 'sublist']/li[2]/a]
+2021-06-30 22:06:250 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:155 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (51c809c4c36b110fc1a50269bbe68ae6)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:294 INFO  ComputerPage :46 - Clicking on software menu....[[ChromeDriver: chrome on WINDOWS (51c809c4c36b110fc1a50269bbe68ae6)] -> xpath: //ul[@class = 'sublist']/li[3]/a]
+2021-06-30 22:06:801 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:304 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (1bc3e56b1f4bf7085b0c0c968c9c35b0)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:604 INFO  ComputerPage :34 - Clicking on desktop menu....[[ChromeDriver: chrome on WINDOWS (1bc3e56b1f4bf7085b0c0c968c9c35b0)] -> xpath: //ul[@class = 'sublist']/li[1]/a]
+2021-06-30 22:06:74 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:877 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (c2eaf49ab7db6b045e32a451e8bfbe2b)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:13 INFO  ComputerPage :40 - Clicking on notebook menu....[[ChromeDriver: chrome on WINDOWS (c2eaf49ab7db6b045e32a451e8bfbe2b)] -> xpath: //ul[@class = 'sublist']/li[2]/a]
+2021-06-30 22:06:368 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 22:06:773 INFO  HomePage :66 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (546ed36096037aa620405dcd1ebd77dd)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-30 22:06:931 INFO  ComputerPage :46 - Clicking on software menu....[[ChromeDriver: chrome on WINDOWS (546ed36096037aa620405dcd1ebd77dd)] -> xpath: //ul[@class = 'sublist']/li[3]/a]
